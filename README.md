@@ -33,18 +33,18 @@ soc-automation-toolkit/
 ## 🖼️ Screenshots
 
 
-![image sample 1](images/sp1.png)
+![image sample 1](images/sp1.PNG)
 
 
-![image sample 2](images/sp2.png)
+![image sample 2](images/sp2.PNG)
 
-![image sample 3](images/sp3.png)
-
-
-![image sample 4](images/sp4.png)
+![image sample 3](images/sp3.PNG)
 
 
-![image sample 5](images/sp5.png)
+![image sample 4](images/sp4.PNG)
+
+
+![image sample 5](images/sp5.PNG)
 
 ---
 
